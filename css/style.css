@@ -36,4 +36,14 @@ body{
    font-size: 20px;
 }
 
+.footer{
+   background: #333;
+   color: #ffff;
+   height: 30px;
+}
+
+.footer__text{
+   padding: 5px;
+}
+
 

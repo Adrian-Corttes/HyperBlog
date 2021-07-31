@@ -12,6 +12,7 @@ body{
    text-align: left;
    border: solid 1px #DDD;
    margin: 0 auto;
+   border: solid 1px #333;
 }
 #container h1{
    font-size: 20px;
